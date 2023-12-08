@@ -78,7 +78,7 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 
 ## More pictures
 
-![top](img\back.jpg)
+![back](img/back.jpg)
 
 ![bottom](img/side.jpg)
 
