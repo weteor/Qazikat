@@ -1,4 +1,4 @@
-### Kong
+### Qazikat
 
 qaz or katana stagger keyboard with offset spacebar, nav cluster and ISO enter
 
