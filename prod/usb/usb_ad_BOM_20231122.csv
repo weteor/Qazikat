@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,C_0402_HandSolder,1,1nF,C1523 
+J1,USB C-31-M-12,1,USB_C_Receptacle_USB2.0,C165948 
+J2,FCC 1x10 - JUSHUO AFC01-S10FCA-00,1,Conn_01x10,C262557 
+"R1, R2",R_0402_HandSolder,2,5.1k,C25905 
+R3,R_0402_HandSolder,1,1M,C26083 
+U1,SOT-23-6,1,USBLC6-2SC6,C2827654 
