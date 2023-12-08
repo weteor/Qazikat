@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "weteor")(type "KiCad")(uri "D:/.build/weteor_kicad_lib/footprints")(options "")(descr ""))
+)

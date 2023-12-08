@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 4e3dd5ed-12e7-4e59-b1a9-6c6cf4b1d5b8)
+
+  (paper "A3")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 121.92 138.43) (size 57.15 46.99) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1d39cb05-99bd-433c-88a3-8addfe5be732)
+    (property "Sheetname" "MCU" (at 121.92 137.7184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 121.92 186.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "qiz"
+        (path "/4e3dd5ed-12e7-4e59-b1a9-6c6cf4b1d5b8" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 154.94 45.72) (size 87.63 58.42) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 331c3e03-e7e5-4e79-ae26-47d37c5daefb)
+    (property "Sheetname" "Katana Layout" (at 154.94 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "katana.kicad_sch" (at 154.94 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "qiz"
+        (path "/4e3dd5ed-12e7-4e59-b1a9-6c6cf4b1d5b8" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 46.99 45.72) (size 85.09 58.42) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3d0bc902-9794-44b2-b812-f18301b144df)
+    (property "Sheetname" "QAZ Layout" (at 46.99 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "qaz.kicad_sch" (at 46.99 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "qiz"
+        (path "/4e3dd5ed-12e7-4e59-b1a9-6c6cf4b1d5b8" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
