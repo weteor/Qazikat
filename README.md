@@ -62,7 +62,7 @@ Parts needed for the case:
 
 ## Firmware
 
-firmware configs for qmk and vial can be found [firmware folder](./firmware)
+firmware configs for qmk(only roughly tested) and vial can be found in [firmware folder](./firmware). Top LED support is still rudimentary and is done in qazikat.c . You can also comment out the functions in that file and also just let the backlight handle those.
 
 The first time the pcb is plugged in, the bootloader will provide a drive to upload the firmware file.
 
