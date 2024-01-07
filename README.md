@@ -82,6 +82,6 @@ If you would like to send me a tip, you could do it [here](https://ko-fi.com/wet
 
 ![bottom](img/side.jpg)
 
-![sideIso](img/side_iso.jpeg)
+![sideIso](img/side_iso.jpg)
 
 ![usb](img/usb.jpg)
